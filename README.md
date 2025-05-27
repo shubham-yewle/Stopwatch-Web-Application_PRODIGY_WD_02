@@ -36,12 +36,16 @@ How It Works
 📦 Setup
 
 1. Clone the repository:
-   ```bash https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git ```
+   ```bash
+   https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git
+   ```
    
-2. Navigate to the project directory:
-  ```bash cd "Stopwatch-Web-Application" PRODIGY_WD_02 ```
+3. Navigate to the project directory:
+  ```bash
+cd "Stopwatch-Web-Application" PRODIGY_WD_02
+```
 
-4. Open `index.html` in your browser.
+5. Open `index.html` in your browser.
 
 👨‍💻 Author
 
