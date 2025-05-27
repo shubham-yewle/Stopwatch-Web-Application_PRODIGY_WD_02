@@ -40,12 +40,12 @@ How It Works
 https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git
 ```
    
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd "Stopwatch-Web-Application" PRODIGY_WD_02
 ```
 
-5. Open `index.html` in your browser.
+3. Open `index.html` in your browser.
 
 👨‍💻 Author
 
