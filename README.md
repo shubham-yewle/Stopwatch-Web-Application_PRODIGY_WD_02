@@ -44,7 +44,7 @@ How It Works
 👨‍💻 Author
 
 Shubham Yewle
+* LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310
+* GitHub - Profile URL : https://github.com/shubham-yewle
+* | [Portfolio](#)
 
-LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310 |
-GitHub - Profile URL : https://github.com/shubham-yewle |
-Portfolio - Profile URL :
