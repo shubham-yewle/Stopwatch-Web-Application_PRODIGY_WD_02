@@ -35,15 +35,11 @@ How It Works
 
 📦 Setup
 
-1. Clone the repository:
-   
-   https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git
+1. Clone the repository: https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git
 
-3. Navigate to the project directory:
+2. Navigate to the project directory: cd Stopwatch-Web-Application
 
-   cd Stopwatch-Web-Application
-
-4. Open index.html in your browser.
+3. Open index.html in your browser.
 
 👨‍💻 Author
 
