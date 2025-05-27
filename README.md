@@ -45,6 +45,6 @@ How It Works
 
 Shubham Yewle
 
-LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310
-GitHub - Profile URL : https://github.com/shubham-yewle
+LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310|
+GitHub - Profile URL : https://github.com/shubham-yewle|
 Portfolio - Profile URL :
