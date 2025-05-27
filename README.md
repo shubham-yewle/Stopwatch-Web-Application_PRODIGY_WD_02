@@ -41,7 +41,7 @@ How It Works
     ```
 2. Navigate to the project directory:
   ```bash
-   cd "Stopwatch-Web-Application" PRODIGY_WD_02
+    cd "Stopwatch-Web-Application" PRODIGY_WD_02
 ```
 4. Open `index.html` in your browser.
 
