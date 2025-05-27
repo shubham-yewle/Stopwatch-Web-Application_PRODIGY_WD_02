@@ -36,21 +36,19 @@ How It Works
 📦 Setup
 
 1. Clone the repository:
+   
+   https://github.com/shubham-yewle/Stopwatch-Web-Application_PRODIGY_WD_02.git
+   
+3. Navigate to the project directory:
 
-   ```bash
-   git clone https://github.com/yourusername/Stopwatch-Web-Application.git
-   ```
-2. Navigate to the project directory:
-
-   ```bash
    cd Stopwatch-Web-Application
-   ```
-3. Open `index.html` in your browser.
 
-## 👨‍💻 Author
+4. Open index.html in your browser.
+
+👨‍💻 Author
 
 Shubham Yewle
 
 LinkedIn - Profile URL : https://www.linkedin.com/in/shubham-yewle-841559310
 GitHub - Profile URL : https://github.com/shubham-yewle
-Portfolio - Portfolio URL : 
+Portfolio - Profile URL :
